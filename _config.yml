@@ -12,7 +12,7 @@ description: "Unity Metal Podcast is a podcast focused on the innovative world o
 subtitle: ""
 lang: en-us
 author: Unity Metal
-copyright: "&#xA9; 2022"
+copyright: "&#xA9; 2023"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fsunitymetal.com" # the base hostname & protocol for your site
 twitter_username:

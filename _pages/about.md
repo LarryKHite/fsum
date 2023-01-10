@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "About Best Daily Podcast"
+title: "About Unity Metal Podcast"
 permalink: /about
 ---
-
-
