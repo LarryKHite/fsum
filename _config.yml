@@ -1,0 +1,35 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Unity Metal Podcast
+email: outreach@fsunitymetal.com
+description: "Unity Metal Podcast is a podcast focused on the innovative world of stainless steel railings. Each episode features interviews with industry experts, product designers, and contractors who specialize in the design and installation of stainless steel railings for residential, commercial, and industrial properties. From the latest advancements in stainless steel railing technology to design inspiration and best practices for installation and maintenance, this podcast has something for everyone interested in the strength and beauty of stainless steel railings. Tune in to learn more about this versatile and durable product. https://fsunitymetal.com"
+subtitle: ""
+lang: en-us
+author: Unity Metal
+copyright: "&#xA9; 2022"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://fsunitymetal.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+
+permalink: /:year/:title.html
+
+#Timezone
+timezone: United States/New York
+
+#Setup for Pages
+include: ["_pages"]
+
+# Build settings
+markdown: kramdown
+
+#Exclude local build settings
+exclude: ["readme.md", "Gemfile.lock", "Gemfile"]
+
+theme: jekyll-theme-minimal
