@@ -14,7 +14,7 @@ lang: en-us
 author: Unity Metal
 copyright: "&#xA9; 2023"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://podcast.fsunitymetal.com/" # the base hostname & protocol for your site
+url: "https://podcast.fsunitymetal.com" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 
